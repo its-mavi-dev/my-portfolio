@@ -1,4 +1,4 @@
-# my-portfolio
+# My Portfolio
 
 For my portfolio and web presence, it's clean, simple, and straight to the point.
 
